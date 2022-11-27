@@ -1,0 +1,27 @@
+.certificate-container {
+  height: 200px;
+  // width: 300px;
+  margin-bottom: 20px;
+  opacity: 0;
+  animation: fadeInUp 2s 2s;
+  animation-fill-mode: forwards;
+  background-color: #ffd700;
+  text-decoration: none;
+  max-width: calc(40% - 35px);
+  flex: 1 1 50%;
+
+  p {
+    font-size: 20px;
+    padding: 55px 30px;
+    color: #fff;
+    font-family: 'Helvetica';
+    text-align: center;
+  }
+  &:hover {
+    background-color: #fff;
+
+    p {
+      color: #ffd700;
+    }
+  }
+}

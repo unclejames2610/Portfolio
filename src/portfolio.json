@@ -1,0 +1,40 @@
+{
+  "portfolio": [
+    {
+      "cover": "/porfolio/1/one.png",
+      "title": "Interior Decorator Website",
+      "description": "React, JSX, CSS",
+      "url": "https://unclejames-movies.netlify.app/"
+    },
+    {
+      "cover": "/porfolio/1/one.png",
+      "title": "Interior Decorator Website",
+      "description": "React, JSX, CSS",
+      "url": "https://unclejames-movies.netlify.app/"
+    },
+    {
+      "cover": "/porfolio/1/one.png",
+      "title": "Interior Decorator Website",
+      "description": "React, JSX, CSS",
+      "url": "https://unclejames-movies.netlify.app/"
+    },
+    {
+      "cover": "/porfolio/1/one.png",
+      "title": "Interior Decorator Website",
+      "description": "React, JSX, CSS",
+      "url": "https://unclejames-movies.netlify.app/"
+    },
+    {
+      "cover": "/porfolio/1/one.png",
+      "title": "Interior Decorator Website",
+      "description": "React, JSX, CSS",
+      "url": "https://unclejames-movies.netlify.app/"
+    },
+    {
+      "cover": "/porfolio/pics/shot.png",
+      "title": "Interior Decorator Website",
+      "description": "React, JSX, CSS",
+      "url": "https://unclejames-movies.netlify.app/"
+    }
+  ]
+}
