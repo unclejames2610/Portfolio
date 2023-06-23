@@ -52,8 +52,9 @@ const About = () => {
             adapt to different techniques to help maximize productivity and
             customer satisfaction. He works well in a team and can also perform
             his tasks alone when required. Ebuka is familiar with HTML, CSS,
-            Sass, ReactJS, JavaScript, JQuery, Styled Components, Kotlin, C/C++,
-            Arduino, ASM (Assembly Language) and VHDL.
+            Sass, ReactJS, TailwindCss, Bootstrap, NextJs, JavaScript,
+            TypeScript, JQuery, Styled Components, Kotlin, C/C++, Arduino, ASM
+            (Assembly Language) and VHDL.
           </p>
         </div>
 
