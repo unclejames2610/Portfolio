@@ -132,25 +132,3 @@ const Home = () => {
 }
 
 export default Home
-
-{
-  /* <h2>App Portfolio</h2>
-      <form ref={appForm} onSubmit={submitAppPortfolio}>
-        <p>
-          <input type="text" placeholder="Name" />
-        </p>
-        <p>
-          <input type="textarea" placeholder="Description" />
-        </p>
-        <p>
-          <input type="text" placeholder="Url" />
-        </p>
-        <p>
-          <input type="file" placeholder="Image" />
-        </p>
-        <button type="submit">Submit</button>
-      </form>
-
-      <br />
-      <br /> */
-}

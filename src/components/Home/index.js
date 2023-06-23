@@ -1,9 +1,9 @@
 import './index.scss'
-import LogoTitle from '../../assets/images/logo-pic.png'
+// import LogoTitle from '../../assets/images/logo-pic.png'
 import { Link } from 'react-router-dom'
 import React, { useEffect, useState } from 'react'
 import AnimatedLetters from '../AnimatedLetters'
-import Logo from './Logo'
+// import Logo from './Logo'
 import Loader from 'react-loaders'
 import profilePic from '../../assets/images/profile-pic.jpg'
 
@@ -65,7 +65,7 @@ const Home = () => {
           </Link>
         </div>
         <div className="pic-container">
-          <img src={profilePic} alt="Ebuka's Picture" />
+          <img src={profilePic} alt="Ebuka" />
         </div>
         {/* <Logo /> */}
       </div>

@@ -15,7 +15,7 @@ const Dashboard = () => {
         setUser(null)
       }
     })
-  }, [])
+  }, [auth])
   return <div>{user ? <Home /> : <Login />}</div>
 }
 
